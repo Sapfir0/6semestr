@@ -1,0 +1,11 @@
+C:\Users\Sapfir\YandexDisk\univercityWork\6semestr\basesystemPO\siteParser\siteParser\bin\Debug\netcoreapp3.1\siteParser.exe
+C:\Users\Sapfir\YandexDisk\univercityWork\6semestr\basesystemPO\siteParser\siteParser\bin\Debug\netcoreapp3.1\siteParser.deps.json
+C:\Users\Sapfir\YandexDisk\univercityWork\6semestr\basesystemPO\siteParser\siteParser\bin\Debug\netcoreapp3.1\siteParser.runtimeconfig.json
+C:\Users\Sapfir\YandexDisk\univercityWork\6semestr\basesystemPO\siteParser\siteParser\bin\Debug\netcoreapp3.1\siteParser.runtimeconfig.dev.json
+C:\Users\Sapfir\YandexDisk\univercityWork\6semestr\basesystemPO\siteParser\siteParser\bin\Debug\netcoreapp3.1\siteParser.dll
+C:\Users\Sapfir\YandexDisk\univercityWork\6semestr\basesystemPO\siteParser\siteParser\bin\Debug\netcoreapp3.1\siteParser.pdb
+C:\Users\Sapfir\YandexDisk\univercityWork\6semestr\basesystemPO\siteParser\siteParser\obj\Debug\netcoreapp3.1\siteParser.csprojAssemblyReference.cache
+C:\Users\Sapfir\YandexDisk\univercityWork\6semestr\basesystemPO\siteParser\siteParser\obj\Debug\netcoreapp3.1\siteParser.AssemblyInfoInputs.cache
+C:\Users\Sapfir\YandexDisk\univercityWork\6semestr\basesystemPO\siteParser\siteParser\obj\Debug\netcoreapp3.1\siteParser.AssemblyInfo.cs
+C:\Users\Sapfir\YandexDisk\univercityWork\6semestr\basesystemPO\siteParser\siteParser\obj\Debug\netcoreapp3.1\siteParser.dll
+C:\Users\Sapfir\YandexDisk\univercityWork\6semestr\basesystemPO\siteParser\siteParser\obj\Debug\netcoreapp3.1\siteParser.pdb
